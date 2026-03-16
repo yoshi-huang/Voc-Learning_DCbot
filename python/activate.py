@@ -14,7 +14,7 @@ from W2V_Relative import similar_above_threshold as resemb
 # initialization
 # ------------------------------------------
 
-TOKEN = "MTM4ODQ2NzYxMjQyMTE5MzgwMA.GB0A9Q.AhpUl15eqt6bj20qux9VkWJlC2DTuH4aW1WTRo"
+# TOKEN = ""
 CHANNEL_IDS = [1388524266718498817, 1158761245277687851]  # CHANNEL ID 
 
 TIMEZONE = pytz.timezone("Asia/Taipei")
